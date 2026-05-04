@@ -2,4 +2,4 @@ Silakan lengkapi tabel berikut dengan nama lengkap dan NRP:
 
 | Nama              | NRP        |
 |-------------------|------------|
-| [Nama Lengkap]    | [NRP]      |
+| Daffa Aufa Afif    | 5054251022     |
